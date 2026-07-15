@@ -1,5 +1,5 @@
 ## Hey! I'm William. 👋🏻
-Senior **Android Developer** with 6+ years of experience building scalable, high-performance mobile apps at **Fanora** and **Xeniac**. Delivered 10+ user-centric applications (100K+ combined downloads) using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.
+Senior **Android Developer** with 7+ years of experience building scalable, high-performance mobile apps at **Fanora** and **Xeniac**. Delivered 10+ user-centric applications (200K+ combined downloads) using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.
 
 ## Skills
 - 👨🏻‍💻 Kotlin • Java • Jetpack Compose • Kotlin Flows
