@@ -24,7 +24,7 @@ Senior **Android Developer** with 7+ years of experience building scalable, high
 	<a href="https://x.com/Willliam_99">x</a> •
 	<a href="https://instagram.com/Willliam__99">instagram</a> •
     <a href="https://discord.com/users/289402493824401408">discord</a> •
-    <a href="mailto:william.gates.3299@gmail.com">email</a> •
+    <a href="mailto:willliam3299@gmail.com">email</a> •
     <a href="https://bio.link/William99">other</a>
   </samp>
 </p>
